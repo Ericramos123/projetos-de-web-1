@@ -9,4 +9,4 @@ Todos os projetos de web 1
 ## [Projeto 6](https://ericramos123.github.io/projeto6-web1/)
 ## [Projeto 7](https://ericramos123.github.io/projeto7-web1/) 
 
-#### Dupla: Eric Ramos e Kaynara
+#### Dupla: ERIC DA SILVA RAMOS E KAYNARA TEREZINHA DE JESUS SILVA QUEIROZ
